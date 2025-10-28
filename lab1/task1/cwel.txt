@@ -1,0 +1,10 @@
+SCIEZKA:
+./
+LISTA PLIKÓW:
+. 224
+.. 160
+Makefile 85
+main.c 1959
+main.dSYM 96
+main 53496
+cwel.txt 0
